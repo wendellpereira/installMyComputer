@@ -17,7 +17,10 @@ brew cask install github
 
 echo " "
 echo "<<ATENÇÃO>> Não tem no brew cask:"
-echo "----------------------"
-echo "Trello.app"
-echo "TweetDeck.app --> tweeten"
+echo "---------------------------------"
+echo ""
+echo "App Store:"
+echo "----------"
+echo "Trello"
+echo "Loremify"
 echo ""
