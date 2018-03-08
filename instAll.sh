@@ -12,6 +12,8 @@ brew cask install vlc
 brew cask install webstorm
 brew cask install whatsapp
 brew cask install github
+brew cask install a-slower-speed-of-light
+brew cask install evernote
 
 # tornar executável: chmod a+x caskconfig.sh
 
@@ -23,4 +25,7 @@ echo "App Store:"
 echo "----------"
 echo "Trello"
 echo "Loremify"
+echo "Pages"
+echo "Numbers"
+echo "Speed Test"
 echo ""
