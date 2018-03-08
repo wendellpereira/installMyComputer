@@ -14,6 +14,7 @@ brew cask install whatsapp
 brew cask install github
 brew cask install a-slower-speed-of-light
 brew cask install evernote
+brew cask install sakype
 
 # tornar executável: chmod a+x caskconfig.sh
 
