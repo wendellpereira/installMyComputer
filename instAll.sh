@@ -14,7 +14,13 @@ brew cask install whatsapp
 brew cask install github
 brew cask install a-slower-speed-of-light
 brew cask install evernote
-brew cask install sakype
+brew cask install skype
+brew cask install appcleaner
+brew cask install github
+brew cask install postaman
+brew cask install slack
+
+brew install certbot
 
 # tornar executável: chmod a+x caskconfig.sh
 
