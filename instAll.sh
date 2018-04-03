@@ -19,8 +19,8 @@ brew cask install appcleaner
 brew cask install github
 brew cask install postaman
 brew cask install slack
+brew cask install google-backup-and-sync
 
-brew install certbot
 
 # tornar executável: chmod a+x caskconfig.sh
 
