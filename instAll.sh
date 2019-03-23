@@ -16,9 +16,7 @@ brew cask install postaman
 brew cask install robo-3t
 brew cask install skype
 brew cask install slack
-brew cask install smcfancontrol
 brew cask install spotify
-brew cask install smcfancontrol
 brew cask install sublime-text
 brew cask install tweeten
 brew cask install vlc
