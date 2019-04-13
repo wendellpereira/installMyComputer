@@ -1,5 +1,4 @@
 #!/bin/sh
-brew cask install a-slower-speed-of-light
 brew cask install adobe-creative-cloud
 brew cask install appcleaner
 brew cask install atom
